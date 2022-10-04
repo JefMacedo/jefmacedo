@@ -17,6 +17,7 @@ Bem vindo a minha página do GitHub.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefMacedo&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JefMacedo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ## **Redes sociais**
   
 <div> 
