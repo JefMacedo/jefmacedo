@@ -10,21 +10,14 @@ Bem vindo a minha página do GitHub.
 <br>
 
 ## **Estatísticas do GitHub**
-<!--
 <div align="center">
   <a href="https://github.com/JefMacedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefMacedo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefMacedo&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefMacedo&hide=html,css&langs_count=9&show&theme=radical&layout=compact"/>
 </div>
--->
-  
+
 <div align="center">
-  <a href="https://github.com/JefMacedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefMacedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefMacedo&hide=html,css&langs_count=9&show&theme=tokyonight&layout=compact">
-</div>
-<div align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JefMacedo&theme=dark&fire=red&currStreakNum=3797db&sideLabels=3797db&count_private=true"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JefMacedo&theme=radical&fire=red&currStreakNum=3797db&sideLabels=3797db&sideNums=DDDB2D&count_private=true"/>
 </div>
 
 ## **Redes sociais**
