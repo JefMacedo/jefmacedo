@@ -24,7 +24,7 @@ Bem vindo a minha página do GitHub.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefMacedo&hide=html,css&langs_count=9&show&theme=tokyonight&layout=compact">
 </div>
 <div align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JefMacedo&theme=dark&fire=red&currStreakNum=3797db&sideLabels=3797db"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JefMacedo&theme=dark&fire=red&currStreakNum=3797db&sideLabels=3797db&count_private=true"/>
 </div>
 
 ## **Redes sociais**
