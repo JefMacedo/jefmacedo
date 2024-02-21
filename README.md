@@ -4,7 +4,7 @@
 
 Bem vindo a minha página do GitHub.
 
-- Meu nome é Jeferson Macedo, tenho 25 anos e atualmente sou desenvolvedor web full stack utilizando as linguagens C#, JavaScript e SQL.
+- Meu nome é Jeferson Macedo e sou desenvolvedor full stack utilizando as linguagens C#, JavaScript e SQL.
 - Estou estudando sobre API's em C#, .Net, React, Azure, Git, JavaScript e melhores práticas de desenvolvimento.
 
 <br>
